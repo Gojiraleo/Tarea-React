@@ -1,0 +1,21 @@
+
+.Banner {
+    background-color: #B7E4F9FF;
+    min-height: 1vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 2;
+    color: #333;
+    font-family: 'Cooper', sans-serif; /* Cambié la fuente a Arial como ejemplo */
+}
+
+.Banner2 {
+    background-color: #B7E4F9FF;
+    font-family: 'Cooper', sans-serif; /* Cambié la fuente a Arial como ejemplo */
+    font-size: 15px; /* Ajusta el tamaño de fuente según tus preferencias */
+    border: 1px solid #ccc; /* Color y grosor del separador */
+    margin: 0px ; 
+}
+

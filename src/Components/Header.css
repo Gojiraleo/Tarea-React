@@ -1,0 +1,15 @@
+.Portada_Imagen{
+    max-width: 500px;
+    max-height: 400px;
+    margin: auto; /* Centra el contenedor en la página */
+    overflow: hidden; /* Oculta partes de la imagen que puedan exceder el contenedor */
+}
+
+.Portada_Imagen img {
+    width: 100%;
+    height: auto;
+    display: block; /* Elimina el espacio extra debajo de la imagen */
+
+}  
+
+

@@ -1,0 +1,13 @@
+.Footer {
+    background-color: #B7E4F9FF;
+    color: rgb(2, 2, 2);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.texto_footer{
+    font-size: 15px;
+}

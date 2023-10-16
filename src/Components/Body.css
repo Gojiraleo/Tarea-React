@@ -1,0 +1,14 @@
+.personaje {
+    text-align: center;
+  }
+
+  .personaje h1, .personaje h2, .personaje h3, .personaje h4 {
+    margin: 1px 0;
+    font-size: 1.2em;
+  }
+
+  .contenedor {
+    text-align: center; /* Centrar el texto */
+    margin: 20px; /* Agregar espacio alrededor del contenido */
+  }
+  
